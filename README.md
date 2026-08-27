@@ -1027,7 +1027,7 @@ For contributions, issues, or questions, please open a GitHub issue or contact t
 
 [![GNU GPLv3 License](https://www.gnu.org/graphics/gplv3-88x31.png)](https://www.gnu.org/licenses/gpl-3.0.html)
 
-<Mata> is free and open-source software, licensed under the GNU General Public License v3.0 (GPL-3.0-or-later). This means you are free to use, study, modify, and share this software, but any derivative works must also be distributed under the same license.
+Mata is free and open-source software, licensed under the GNU General Public License v3.0 (GPL-3.0-or-later). This means you are free to use, study, modify, and share this software, but any derivative works must also be distributed under the same license.
 
 > This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 >
@@ -1035,7 +1035,7 @@ For contributions, issues, or questions, please open a GitHub issue or contact t
 >
 > You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-Copyright (C) 2026 <Jerome Mukindia>   
+Copyright (C) 2026 Jerome Mukindia   
 
 ---
 
