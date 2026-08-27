@@ -1,6 +1,6 @@
 # Brain Tumor Detection Using Convolutional Neural Networks
 
-![Sample Brain MRI with Glioma Detection](/preview.jpg)
+![Sample Brain MRI with Glioma Detection](preview.png)
 *Figure 1: Example brain MRI scan with detected glioma tumor (highlighted region)*
 
 ## Executive Summary
