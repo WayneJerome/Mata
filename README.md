@@ -1041,4 +1041,4 @@ Copyright (C) 2026 Jerome Mukindia
 
 **Last Updated**: 2026  
 **Project Status**: Active Development  
-**Maintained by**: Jerome Mukindia (x.com/Jerome_Mukindia)
+**Maintained by**: Jerome Mukindia (x.com/JeromeMukindia)
